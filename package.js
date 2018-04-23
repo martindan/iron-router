@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'iron:router',
+  name: 'martindan:router',
   summary: 'Routing specifically designed for Meteor',
   version: '1.1.2',
-  git: 'https://github.com/iron-meteor/iron-router'
+  git: 'https://github.com/martindan/iron-router.git'
 });
 
 Npm.depends({
